@@ -1,0 +1,32 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+html, body {
+    background-image: linear-gradient(to bottom,#ffffff 200px,#159a9c51, #0102358c);
+    height: 100%;
+}
+
+main {
+    background-attachment: fixed;
+    border-radius: 8px;
+    box-shadow: 5px 10px 15px #083d3e;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 { color: #159A9C;
+    text-shadow: 1px 1px 3px #002333;
+
+}
+
+h2{
+    color: #002333;
+
+}
+
+p {
+    color: #002333;
+
+}
