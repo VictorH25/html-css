@@ -53,7 +53,7 @@ section {
 }
 
 section > p {
-    padding: 2em;
+    padding: 1em;
 }
 section.normal {
     background-color: white;
@@ -62,6 +62,7 @@ section.normal {
 }
 
 section.imagem{
+    
     background-color: #818181;
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.552);
@@ -72,7 +73,7 @@ section.imagem > p{
     display: inline-block;
     padding-left: 20px;
     background-color: #3b3b3ba0;
-    width: 400px;
+    width: 300px;
     text-shadow: 1px 1px 0px black;
     
 }
