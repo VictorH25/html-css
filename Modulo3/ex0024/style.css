@@ -52,7 +52,7 @@ section {
 }
 
 section > p {
-    padding: 2em;
+    padding: 2vw;
 }
 section.normal {
     background-color: white;
