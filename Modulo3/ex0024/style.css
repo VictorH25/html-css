@@ -15,7 +15,7 @@
 }
 
 html, body {
-    min-height: 100vh;
+    min-height: 90vh;
     background-color: darkgray;
 }
 
@@ -70,7 +70,7 @@ section.imagem{
 }
 section.imagem > p{
     display: inline-block;
-    padding: 10px;
+    padding-left: 20px;
     background-color: #3b3b3ba0;
     width: 400px;
     text-shadow: 1px 1px 0px black;
